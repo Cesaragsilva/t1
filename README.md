@@ -4,6 +4,8 @@
 
 # Questões Teóricas
 
+* Qual a diferença entre uma Struct e uma Class?
+
 * Qual o objetivo da criação de um Objeto Anônimo?
 
 * Explique o termo CRUD
@@ -20,10 +22,16 @@
 
 * Explique os 4 pilares da programação orientada a objetivo.
 
+* Explique como funciona um gerenciamento de rotas de uma SPA
+
 * Falando sobre DevOps, comente o que conhece sobre.
 
 * Explique sobre um método agile.
 
 * Comente sobre CI e CD.
 
+* Comente o que sabe sobre Docker/Container.
+
 * Quais as vantagens e desvantagens sobre API e quais preocupaçõe devemos ter quando escolhemos essa abordagem ?
+
+* Fale um pouco sobre o conceito de mensageria e cite um sistema que exerça essa função.
